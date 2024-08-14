@@ -1,8 +1,8 @@
 "# PROYECTOFINAL-G51-HITO2" 
 "# PROYECTOFINAL-G51-HITO3"
 
-ACCESO USUARIO
+ACCESO ADMIN
 prueba@gmail.com // pass: 123456
 
-ACCESO ADMIN
+ACCESO USUARIO
 samir.casis@gmail.com // pass: 123456
